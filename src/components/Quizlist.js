@@ -63,7 +63,7 @@ const QuizList = [
             number4 : "정묘호란"
         },
         hint : "일본의 한자표기",
-        type : "전쟁"
+        type : "전투"
     },
     {
         id : 6,
@@ -76,7 +76,7 @@ const QuizList = [
             number4 : "신라"
         },
         hint : "대한민국 경기도 광주시 남한산성면에 있는 남한산을 중심으로 하는 산성이며 경기도의 도립공원이다.",
-        type : "통일"
+        type : "나라"
     }
 ]
 
