@@ -51,7 +51,7 @@ function Main({userName, ChangeEvent, quizList, quiz, selected, quizCnt}) {
                 <option value="전체">전체 ({quiz.length}문제)</option>
                 {
                   typeSelect.map(el =>{
-                    return <option value={el} key={el}>{el}({quiz.filter(e=> el=== e.type).length}문제)</option>
+                    return <option value={el} key={el}>{el}({quiz.filter(e=> el === e.type).length}문제)</option>
                   })
                 }
               </select>

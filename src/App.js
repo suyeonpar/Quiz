@@ -9,7 +9,7 @@ import QuizList from './components/Quizlist';
 
 function App() {
   
-  const [userName, setUserName] = useState("해찬");
+  const [userName, setUserName] = useState("수연");
   const [quizList, setQuizeList] = useState(QuizList);
   const quiz = [...QuizList];
   const [selected, setSelected] = useState(4);
