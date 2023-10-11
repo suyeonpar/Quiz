@@ -59,7 +59,6 @@ function Detail({userName, quizList, QuizLength}) {
                 </ul>
               </div>
               </>
-
                 : 
                 <>
                 <div>

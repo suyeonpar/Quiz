@@ -29,8 +29,7 @@ function App() {
       case classValue.includes("random") : 
         //console.log(dataValue)
         (dataValue === "1" ? setQuizeList([...QuizList].sort(()=>{
-          return Math.random() -0.5
-        }).slice(0, selected))
+          return Math.random() -0.5}).slice(0, selected))
          : setQuizeList([...QuizList]).slice(0, selected))
         // 0~1 사이의 값을 반환 > 0.5의 평균값
       break;
