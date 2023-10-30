@@ -1,13 +1,13 @@
-# Let's quiz !
+# [Let's quiz !](https://quiz-one-sigma.vercel.app/)
 
-[퀴즈를 풀어보세요](https://quiz-one-sigma.vercel.app/).
+퀴즈를 풀어보세요
 
 ## Preview
 
 ![image](https://github.com/suyeonpar/Quiz/assets/142365626/a37d5bbb-5c03-43ce-878a-c7889df6a9ef)
 
 
-### `yarn start`
+### 
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
