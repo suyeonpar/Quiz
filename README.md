@@ -1,10 +1,11 @@
-# Getting Started with Create React App
+# Let's quiz !
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[퀴즈를 풀어보세요](https://quiz-one-sigma.vercel.app/).
 
-## Available Scripts
+## Preview
 
-In the project directory, you can run:
+![image](https://github.com/suyeonpar/Quiz/assets/142365626/a37d5bbb-5c03-43ce-878a-c7889df6a9ef)
+
 
 ### `yarn start`
 
